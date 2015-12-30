@@ -2,7 +2,7 @@
 
 __Sistema de Informação Geográfica para gerência e incentivo ao Processo de Coleta Seletiva__: http://www.barbacena.ifsudestemg.edu.br/conteudo/geocoleta
 
-<img align="right" src="https://raw.github.com/rafjaa/GeoColeta/master/samples/territorios_informacionais.jpg" />
+<img align="right" src="https://github.com/Dborah/GeoColeta/raw/master/samples/territorios_informacionais.jpg" />
 
 - Projeto finalista da Semana Nacional de Ciência e Tecnologia 2012 do Câmpus Barbacena.
 
@@ -14,11 +14,12 @@ __Sistema de Informação Geográfica para gerência e incentivo ao Processo de 
 ## Screenshots
 
 <p align="center">
-  <img src="https://raw.github.com/rafjaa/GeoColeta/master/samples/tela.png" alt="Aplicação móvel" />
+  <img src="https://github.com/Dborah/GeoColeta/raw/master/samples/tela.png" alt="Aplicação móvel" />
+
 <hr />
-  <img src="https://raw.github.com/rafjaa/GeoColeta/master/samples/gerencial.png" alt="Aplicação gerencial - mapa de coletas" />
+  <img src="https://github.com/Dborah/GeoColeta/raw/master/samples/gerencial.png" alt="Aplicação gerencial - mapa de coletas" />
 <hr>
-  <img src="https://raw.github.com/rafjaa/GeoColeta/master/samples/grafico.png" alt="Aplicação gerencial - gráficos" />
+  <img src="https://github.com/Dborah/GeoColeta/raw/master/samples/grafico.png" alt="Aplicação gerencial - gráficos" />
 </p>
 
 ## Protótipo
